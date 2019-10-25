@@ -1,3 +1,3 @@
 # Titanic Example
 
-> [German README](https://github.com/Syrex-o/HWR/blob/master/DataScience/Titanic/Titanic.ipynb)
+> [Code View](https://nbviewer.jupyter.org/github.com/Syrex-o/HWR/blob/master/DataScience/Titanic/Titanic.ipynb)
